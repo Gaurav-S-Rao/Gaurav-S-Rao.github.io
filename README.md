@@ -1,4 +1,4 @@
-﻿# CakeOP-design
+﻿# Melicious-design
 > It is a fictional company that sells customized cakes to clients
 ## Technology used :
 - ### Front-End
