@@ -158,7 +158,7 @@ p {
 }
 #showcase {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/img/showcase.jpg");
+    url("../img/showcase.jpg");
   height: 100vh;
   color: #fff;
   background-size: cover;

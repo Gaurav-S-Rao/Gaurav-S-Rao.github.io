@@ -5,18 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages "
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Gaurav-S-Rao/Melicious-design.git"
+    "deploy": "gh-pages -d dist "
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Gaurav-S-Rao/Melicious-design/issues"
-  },
   "homepage": "https://gaurav-s-rao.github.io/melicious-design",
   "dependencies": {},
   "devDependencies": {
