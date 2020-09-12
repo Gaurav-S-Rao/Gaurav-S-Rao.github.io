@@ -1,6 +1,5 @@
-const showcase = document.getElementById("showcase");
 const navbar = document.getElementById("navbar");
-// console.log(`${navbar} and ${showcase}`);
+// console.log(navbar);
 window.addEventListener("scroll", () => {
   if (window.pageYOffset >= 150) {
     navbar.style.background = "rgba(0,0,0,0.8)";
